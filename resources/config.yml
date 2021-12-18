@@ -1,0 +1,32 @@
+---
+# SimpleNick by King0996_Off | SimpleNick par King0996
+#░██╗░░░░░░░██╗░█████╗░██████╗░██╗██╗░░██╗████████╗███████╗░█████╗░███╗░░░███╗
+#░██║░░██╗░░██║██╔══██╗██╔══██╗██║╚██╗██╔╝╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#░╚██╗████╗██╔╝███████║██████╔╝██║░╚███╔╝░░░░██║░░░█████╗░░███████║██╔████╔██║
+#░░████╔═████║░██╔══██║██╔══██╗██║░██╔██╗░░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#░░╚██╔╝░╚██╔╝░██║░░██║██║░░██║██║██╔╝╚██╗░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+# FRA: Permet de changer et de gérer les nickname
+# ANG: Allows you to change and manage nicknames
+
+#Message Nick
+nick_error: "§c(!) /nick <pseudo>"
+nick_change: "§aVotre pseudo a été changer en §3{name}"
+# FRA: Ne modifiez pas {$args[0]} si vous ne savez pas ce que vous faites !
+# ANG: Don't edit {$args[0]} if you don't know what you do !
+
+#Message unNick
+unNick_un: "§aVotre pseudo a bien été remis en §3{name}"
+# FRA: Ne modifiez pas {name} si vous ne savez pas ce que vous faites !
+# ANG: Don't edit {name} if you don't know what you do !
+
+#Message resetNick
+resetNick_by: "§cVotre nickname a été reset par: §4{name}"
+resetNick_good: "§cLe pseudo de §4{name} §ca bien été reset"
+resetNick_wrong: "§4{name} §cn'est pas connecté ou n'existe pas !"
+# FRA: Ne modifiez pas {$player->getName()} and $args[0] si vous ne savez pas ce que vous faites !
+# ANG: Don't edit {$player->getName()} et $args[0] if you don't know what you do !
+
+#Console Message
+console_message: "Vous devez effectuer la commande en jeu !"
+---
